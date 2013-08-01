@@ -9,8 +9,10 @@ Detalhes:
 
 1) Basta descompactar e adicionar as seguintes linhas de código dentro do header (html) de cada página:
 
-  <link rel="stylesheet" type="text/css" href="<caminho>/customtooltips.css" />
+```
+	<link rel="stylesheet" type="text/css" href="<caminho>/customtooltips.css">
 	<script type="Text/Javascript" src="<caminho>/customtooltips.js"></script>
+```
 
 
 2) basta adicionar a tag title="..." (já existente) dentro do elementos html (exceção: elemento option)
