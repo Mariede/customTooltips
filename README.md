@@ -7,7 +7,7 @@ Pacote customTooltip Puro
 Detalhes:
 --------
 
-1) Basta descompactar e adicionar as seguintes linhas de código dentro do header (html) de cada página:
+1) Basta adicionar as seguintes linhas de código dentro do header (html) de cada página:
 
 ```
 	<link rel="stylesheet" type="text/css" href="<caminho>/customtooltips.css">
