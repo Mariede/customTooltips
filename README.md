@@ -15,7 +15,7 @@ Detalhes:
 ```
 
 
-2) basta adicionar a tag title="..." (já existente) dentro do elementos html (exceção: elemento option)
+2) E adicionar a tag title="..." (já existente) dentro do elementos html (exceção: elemento option)
 
 	Exemplo de uso: <span title="Aqui <b>tooltip personalizado</b>!">Tooltip</span>
 
